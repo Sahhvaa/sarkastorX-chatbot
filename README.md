@@ -41,4 +41,4 @@ This project is a functional, rule-based chatbot designed purely for sarcastic r
 
 ## 🎥 Demo
 
-[**Insert a link to your short demo video or the link to your deployed application here.**]
+[https://screenrec.com/share/bc7K9yt2Y5]
